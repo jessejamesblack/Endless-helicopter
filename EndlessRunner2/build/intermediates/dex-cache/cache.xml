@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_6ea198649227289cb4807bbd9a7c883b756c5d74\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_8b130292eac40a7358fd414ad939ba7896914359\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8b271f2f3e5f49de740a0f3c8c21a792ae845bef">
+        <dex dex="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7d23de506f46e4fe018d4d659187046f3af809bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_052b8525360db3d200704994ad0628b76b75c77a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jesse\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_b670e952cf8ca8bedfaea3e4ee3d087e9ba7d7f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a6c50447ed6fb276b498f03b6b1cbc86e151eb6b">
+        <dex dex="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_39e714c00bc8257a838310099a0f80c20583bddd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_f6f5c3ae0d5c6b71dce13843d020e497efdce663\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\jesse\OneDrive\Programming\Android Game\EndlessRunner2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_24f0816e19bc0d595dbdb8d167f6fc41bbdec588\classes.dex" />
+    </item>
+
+</items>
