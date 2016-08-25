@@ -1,0 +1,9 @@
+Instructions for install.
+
+Requires ~2MB of space on phone.
+
+Download on to any android device/emulator.
+Once downloaded your phone/tablet will give you a notification.
+Go to this location and install. 
+You will get a warning to allow unverified downloads, allow this. (I promise its not maleware).
+The game will show up in your apps menu titled EndlessRunner with the default Android App picture. 
